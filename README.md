@@ -8,3 +8,5 @@ New line was added locally
 20230225: deleted conflict and added: This line was modified manually during conflicts resolution
 
 20230227: New line was added localy
+
+20230227: New line was added locally (seconde fois)
